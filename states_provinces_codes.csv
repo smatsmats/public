@@ -4,7 +4,7 @@ Alaska,AK,2
 Alberta,AB,
 American Samoa,AS,3
 Arizona,AZ,4
-Arkansas,AK,5
+Arkansas,AR,5
 Baker Island,BI,81
 British Columbia,BC,
 California,CA,6
@@ -59,7 +59,6 @@ Oklahoma,OK,40
 Ontario,ON,
 Oregon,OR,41
 Palau,PW,70
-Palmyra Atoll,PA,95
 Pennsylvania,PA,42
 Prince Edward Island,PE,
 Puerto Rico,PR,43
@@ -77,6 +76,7 @@ Virginia,VA,51
 Virgin Islands of the US,VI,11
 Washington,WA,53
 "Washington, DC",DC,11
+District of Columbia,DC,11
 West Virginia,WV,54
 Wisconsin,WI,55
 Wyoming,WY,56
